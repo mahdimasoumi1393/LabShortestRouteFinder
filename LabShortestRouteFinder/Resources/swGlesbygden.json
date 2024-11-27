@@ -1,0 +1,242 @@
+﻿[
+  {
+    "Namn": "Kiruna",
+    "Latitud": 67.8558,
+    "Longitud": 20.2253
+  },
+  {
+    "Namn": "Gällivare",
+    "Latitud": 67.1337,
+    "Longitud": 20.6511
+  },
+  {
+    "Namn": "Karesuando",
+    "Latitud": 68.4419,
+    "Longitud": 22.4748
+  },
+  {
+    "Namn": "Arjeplog",
+    "Latitud": 66.0500,
+    "Longitud": 17.8830
+  },
+  {
+    "Namn": "Jokkmokk",
+    "Latitud": 66.6101,
+    "Longitud": 19.8378
+  },
+  {
+    "Namn": "Övertorneå",
+    "Latitud": 66.3885,
+    "Longitud": 23.6600
+  },
+  {
+    "Namn": "Vilhelmina",
+    "Latitud": 64.6253,
+    "Longitud": 16.6564
+  },
+  {
+    "Namn": "Dorotea",
+    "Latitud": 64.2633,
+    "Longitud": 16.4134
+  },
+  {
+    "Namn": "Sorsele",
+    "Latitud": 65.5370,
+    "Longitud": 17.5380
+  },
+  {
+    "Namn": "Åsele",
+    "Latitud": 64.1603,
+    "Longitud": 17.3477
+  },
+  {
+    "Namn": "Tärnaby",
+    "Latitud": 65.7157,
+    "Longitud": 15.2817
+  },
+  {
+    "Namn": "Örnsköldsvik",
+    "Latitud": 63.2909,
+    "Longitud": 18.7159
+  },
+  {
+    "Namn": "Strömsund",
+    "Latitud": 63.8507,
+    "Longitud": 15.5588
+  },
+  {
+    "Namn": "Funäsdalen",
+    "Latitud": 62.5415,
+    "Longitud": 12.5446
+  },
+  {
+    "Namn": "Östersund",
+    "Latitud": 63.1792,
+    "Longitud": 14.6357
+  },
+  {
+    "Namn": "Sveg",
+    "Latitud": 62.0315,
+    "Longitud": 14.3708
+  },
+  {
+    "Namn": "Hede",
+    "Latitud": 62.4137,
+    "Longitud": 13.5187
+  },
+  {
+    "Namn": "Leksand",
+    "Latitud": 60.7325,
+    "Longitud": 14.9834
+  },
+  {
+    "Namn": "Idre",
+    "Latitud": 61.8495,
+    "Longitud": 12.7203
+  },
+  {
+    "Namn": "Sälen",
+    "Latitud": 61.1567,
+    "Longitud": 13.2807
+  },
+  {
+    "Namn": "Malung",
+    "Latitud": 60.6867,
+    "Longitud": 13.7094
+  },
+  {
+    "Namn": "Arvika",
+    "Latitud": 59.6559,
+    "Longitud": 12.5851
+  },
+  {
+    "Namn": "Torsby",
+    "Latitud": 60.1353,
+    "Longitud": 13.0060
+  },
+  {
+    "Namn": "Hagfors",
+    "Latitud": 60.0275,
+    "Longitud": 13.6445
+  },
+  {
+    "Namn": "Karlskoga",
+    "Latitud": 59.3268,
+    "Longitud": 14.5236
+  },
+  {
+    "Namn": "Vimmerby",
+    "Latitud": 57.6646,
+    "Longitud": 15.8564
+  },
+  {
+    "Namn": "Vetlanda",
+    "Latitud": 57.4289,
+    "Longitud": 15.0784
+  },
+  {
+    "Namn": "Färjestaden",
+    "Latitud": 56.6590,
+    "Longitud": 16.4730
+  },
+  {
+    "Namn": "Borgholm",
+    "Latitud": 56.8790,
+    "Longitud": 16.6563
+  },
+  {
+    "Namn": "Visby",
+    "Latitud": 57.6348,
+    "Longitud": 18.2948
+  },
+  {
+    "Namn": "Slite",
+    "Latitud": 57.7044,
+    "Longitud": 18.8087
+  },
+  {
+    "Namn": "Hemse",
+    "Latitud": 57.2344,
+    "Longitud": 18.3670
+  },
+  {
+    "Namn": "Sandviken",
+    "Latitud": 60.6204,
+    "Longitud": 16.7768
+  },
+  {
+    "Namn": "Ludvika",
+    "Latitud": 60.1498,
+    "Longitud": 15.1860
+  },
+  {
+    "Namn": "Mora",
+    "Latitud": 61.0048,
+    "Longitud": 14.5375
+  },
+  {
+    "Namn": "Orsa",
+    "Latitud": 61.1215,
+    "Longitud": 14.6227
+  },
+  {
+    "Namn": "Norsjö",
+    "Latitud": 64.9111,
+    "Longitud": 19.4904
+  },
+  {
+    "Namn": "Lycksele",
+    "Latitud": 64.5959,
+    "Longitud": 18.6747
+  },
+  {
+    "Namn": "Storuman",
+    "Latitud": 65.0951,
+    "Longitud": 17.1166
+  },
+  {
+    "Namn": "Kramfors",
+    "Latitud": 62.9277,
+    "Longitud": 17.7714
+  },
+  {
+    "Namn": "Härnösand",
+    "Latitud": 62.6323,
+    "Longitud": 17.9371
+  },
+  {
+    "Namn": "Älvsbyn",
+    "Latitud": 65.6768,
+    "Longitud": 21.0012
+  },
+  {
+    "Namn": "Pajala",
+    "Latitud": 67.2133,
+    "Longitud": 23.3682
+  },
+  {
+    "Namn": "Kalix",
+    "Latitud": 65.8521,
+    "Longitud": 23.1562
+  },
+  {
+    "Namn": "Haparanda",
+    "Latitud": 65.8343,
+    "Longitud": 24.1263
+  },
+  {
+    "Namn": "Skellefteå",
+    "Latitud": 64.7502,
+    "Longitud": 20.9528
+  },
+  {
+    "Namn": "Hudiksvall",
+    "Latitud": 61.7284,
+    "Longitud": 17.1036
+  },
+  {
+    "Namn": "Ljusdal",
+    "Latitud": 61.8272,
+    "Longitud": 16.0864
+  }
+]

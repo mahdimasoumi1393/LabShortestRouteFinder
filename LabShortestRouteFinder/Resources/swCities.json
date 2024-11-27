@@ -1,0 +1,220 @@
+﻿[
+  {
+    "Rectangle": {
+      "NorthWest": {
+        "Latitude": 69.0600,
+        "Longitude": 10.9300
+      },
+      "NorthEast": {
+        "Latitude": 69.0600,
+        "Longitude": 24.1600
+      },
+      "SouthWest": {
+        "Latitude": 55.2000,
+        "Longitude": 10.9300
+      },
+      "SouthEast": {
+        "Latitude": 55.2000,
+        "Longitude": 24.1600
+      }
+    },
+    "Cities": [
+      {
+        "Name": "Stockholm",
+        "X": 0,
+        "Y": 0,
+        "Latitude": 59.3293,
+        "Longitude": 18.0686
+      },
+      {
+        "Name": "Göteborg",
+        "X": 0,
+        "Y": 0,
+        "Latitude": 57.7089,
+        "Longitude": 11.9746
+      },
+      {
+        "Name": "Malmö",
+        "X": 0,
+        "Y": 0,
+        "Latitude": 55.6050,
+        "Longitude": 13.0038
+      },
+      {
+        "Name": "Uppsala",
+        "X": 0,
+        "Y": 0,
+        "Latitude": 59.8586,
+        "Longitude": 17.6389
+      },
+      {
+        "Name": "Västerås",
+        "X": 0,
+        "Y": 0,
+        "Latitude": 59.6162,
+        "Longitude": 16.5528
+      },
+      {
+        "Name": "Örebro",
+        "X": 0,
+        "Y": 0,
+        "Latitude": 59.2753,
+        "Longitude": 15.2134
+      },
+      {
+        "Name": "Linköping",
+        "X": 0,
+        "Y": 0,
+        "Latitude": 58.4108,
+        "Longitude": 15.6214
+      },
+      {
+        "Name": "Helsingborg",
+        "X": 0,
+        "Y": 0,
+        "Latitude": 56.0465,
+        "Longitude": 12.6945
+      },
+      {
+        "Name": "Jönköping",
+        "X": 0,
+        "Y": 0,
+        "Latitude": 57.7826,
+        "Longitude": 14.1618
+      },
+      {
+        "Name": "Norrköping",
+        "X": 0,
+        "Y": 0,
+        "Latitude": 58.5860,
+        "Longitude": 16.1924
+      },
+      {
+        "Name": "Lund",
+        "X": 0,
+        "Y": 0,
+        "Latitude": 55.7047,
+        "Longitude": 13.1910
+      },
+      {
+        "Name": "Umeå",
+        "X": 0,
+        "Y": 0,
+        "Latitude": 63.8258,
+        "Longitude": 20.2630
+      },
+      {
+        "Name": "Gävle",
+        "X": 0,
+        "Y": 0,
+        "Latitude": 60.6749,
+        "Longitude": 17.1413
+      },
+      {
+        "Name": "Borås",
+        "X": 0,
+        "Y": 0,
+        "Latitude": 57.7210,
+        "Longitude": 12.9401
+      },
+      {
+        "Name": "Eskilstuna",
+        "X": 0,
+        "Y": 0,
+        "Latitude": 59.3666,
+        "Longitude": 16.5077
+      },
+      {
+        "Name": "Södertälje",
+        "X": 0,
+        "Y": 0,
+        "Latitude": 59.1955,
+        "Longitude": 17.6254
+      },
+      {
+        "Name": "Karlstad",
+        "X": 0,
+        "Y": 0,
+        "Latitude": 59.3793,
+        "Longitude": 13.5036
+      },
+      {
+        "Name": "Karlskrona",
+        "X": 0,
+        "Y": 0,
+        "Latitude": 56.1616,
+        "Longitude": 15.5866
+      },
+      {
+        "Name": "Växjö",
+        "X": 0,
+        "Y": 0,
+        "Latitude": 56.8790,
+        "Longitude": 14.8059
+      },
+      {
+        "Name": "Halmstad",
+        "X": 0,
+        "Y": 0,
+        "Latitude": 56.6745,
+        "Longitude": 12.8570
+      },
+      {
+        "Name": "Sundsvall",
+        "X": 0,
+        "Y": 0,
+        "Latitude": 62.3908,
+        "Longitude": 17.3069
+      },
+      {
+        "Name": "Luleå",
+        "X": 0,
+        "Y": 0,
+        "Latitude": 65.5848,
+        "Longitude": 22.1547
+      },
+      {
+        "Name": "Trollhättan",
+        "X": 0,
+        "Y": 0,
+        "Latitude": 58.2836,
+        "Longitude": 12.2886
+      },
+      {
+        "Name": "Östersund",
+        "X": 0,
+        "Y": 0,
+        "Latitude": 63.1792,
+        "Longitude": 14.6357
+      },
+      {
+        "Name": "Borlänge",
+        "X": 0,
+        "Y": 0,
+        "Latitude": 60.4858,
+        "Longitude": 15.4370
+      },
+      {
+        "Name": "Kiruna",
+        "X": 0,
+        "Y": 0,
+        "Latitude": 67.8558,
+        "Longitude": 20.2253
+      },
+      {
+        "Name": "Gällivare",
+        "X": 0,
+        "Y": 0,
+        "Latitude": 67.1337,
+        "Longitude": 20.6511
+      },
+      {
+        "Name": "Karesuando",
+        "X": 0,
+        "Y": 0,
+        "Latitude": 68.4419,
+        "Longitude": 22.4748
+      }
+    ]
+  }
+]

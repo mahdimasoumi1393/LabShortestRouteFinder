@@ -1,0 +1,79 @@
+[
+  {
+    "Start": {
+      "Name": "Stockholm",
+      "X": 100,
+      "Y": 200,
+      "Latitude": 59.3293,
+      "Longitude": 18.0686
+    },
+    "Destination": {
+      "Name": "Göteborg",
+      "X": 300,
+      "Y": 400,
+      "Latitude": 57.7089,
+      "Longitude": 11.9746
+    },
+    "DrivingDistance": 474,
+    "StraightLineDistance": 402.0,
+    "Cost": 4740
+  },
+  {
+    "Start": {
+      "Name": "Stockholm",
+      "X": 100,
+      "Y": 200,
+      "Latitude": 59.3293,
+      "Longitude": 18.0686
+    },
+    "Destination": {
+      "Name": "Malmö",
+      "X": 500,
+      "Y": 600,
+      "Latitude": 55.6050,
+      "Longitude": 13.0038
+    },
+    "DrivingDistance": 617,
+    "StraightLineDistance": 472.0,
+    "Cost": 6170
+  },
+  {
+    "Start": {
+      "Name": "Göteborg",
+      "X": 300,
+      "Y": 400,
+      "Latitude": 57.7089,
+      "Longitude": 11.9746
+    },
+    "Destination": {
+      "Name": "Malmö",
+      "X": 500,
+      "Y": 600,
+      "Latitude": 55.6050,
+      "Longitude": 13.0038
+    },
+    "DrivingDistance": 259,
+    "StraightLineDistance": 211.0,
+    "Cost": 2590
+  },
+  {
+    "Start": {
+      "Name": "Umeå",
+      "X": 700,
+      "Y": 800,
+      "Latitude": 63.8258,
+      "Longitude": 20.2630
+    },
+    "Destination": {
+      "Name": "Borås",
+      "X": 900,
+      "Y": 1000,
+      "Latitude": 57.7210,
+      "Longitude": 12.9401
+    },
+    "DrivingDistance": 603,
+    "StraightLineDistance": 488.11,
+    "Cost": 6030
+  }
+
+]
